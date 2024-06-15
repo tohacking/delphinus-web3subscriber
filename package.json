@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "a web3 subscriber for easy truffle based projects",
   "scripts": {
-    "test": "jest tests/txbinder.test",
-    "prepare": "npx tsc"
+    "test": "jest tests/txbinder.test"
   },
   "repository": {
     "type": "git",
